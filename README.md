@@ -33,7 +33,7 @@ The `.pro` files are Qt5/Qt6-agnostic; `qmake` builds against whichever Qt is on
 ## Building
 
 ```bash
-cd Qt6
+cd Insta360-Link-1-and-2-Controller-for-Linux
 qmake            # or: qmake6
 make -j$(nproc)
 ```
