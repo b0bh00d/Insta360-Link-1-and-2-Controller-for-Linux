@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Insta360 Link UI
+Exec=insta360linkgui
+Terminal=false
+Type=Application
+Icon=xyz.insta360.app
+StartupWMClass=Insta360
+X-AppImage-Version=1.0
+Comment=A desktop application for managing Insta360 Link 1/2 web cameras
+Categories=Utilities;
